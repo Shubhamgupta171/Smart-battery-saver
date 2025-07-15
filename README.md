@@ -2,7 +2,11 @@
 
 A React + TypeScript-based web application that intelligently monitors and suggests optimizations for battery life, network usage, and device activity.
 
----
+
+### 🚀 Live Demo
+
+🔗 https://smart-battery-saver-d8zu.vercel.app/
+
 
 ## 🚀 Features
 
